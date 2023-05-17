@@ -12,7 +12,6 @@ public class Main
         int obereGrenze = 50;
         int summe = 0;
         for(int i = 1; i <= obereGrenze; i++)
-
         {
             summe = summe + i;
         }
