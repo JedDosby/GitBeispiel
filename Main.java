@@ -1,4 +1,4 @@
-import java.math.*;
+import java.math.BigInteger;
 /**
  * Beschreiben Sie hier die Klasse Main.
  * 
